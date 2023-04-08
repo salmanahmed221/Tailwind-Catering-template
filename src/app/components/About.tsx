@@ -14,8 +14,8 @@ export default function About() {
                     />
                 </div>
                 <div className='basis-1/2 md:mr-10 md:mt-10'>
-                    <h1 className='text-center text-4xl font-serif pt-3 tracking-wider'>About Catering</h1>
-                    <h4 className='text-center pt-6 text-xl tracking-widest'>Tradition since 1889</h4>
+                    <h1 className='text-center md:text-4xl text-3xl font-serif pt-3 tracking-wider'>About Catering</h1>
+                    <h4 className='text-center pt-6 md:text-xl tracking-widest'>Tradition since 1889</h4>
                     <p className='md:text-left text-justify px-5 pt-6 leading-8'>
                         The Catering was founded in blabla by Mr. Smith in lorem ipsum dolor
                         sit amet, consectetur adipiscing elit consectetur adipiscing elit,

@@ -10,6 +10,7 @@ export default function Navbar() {
         <div className="space-x-10 font-mono hidden md:inline-block">
             <Link href={"#homepage"} target="_parent" className="hover:bg-gray-200">Home</Link>
             <Link href={"#aboutpage"} target="_parent" className="hover:bg-gray-200">About</Link>
+            <Link href={"#menupage"} target="_parent" className="hover:bg-gray-200">Menu</Link>
         </div>
     </div>;
 }
