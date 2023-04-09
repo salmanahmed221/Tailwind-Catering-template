@@ -18,7 +18,7 @@ export default function Menu() {
             </div>
             <div className="basis-1/2 mt-9 md:mt-0">
                 <Image src={"/tablesetting.jpg"} alt="" width={450}
-                    height={900} className="mx-auto" />
+                    height={900} className="mx-auto px-2" />
             </div>
         </div>
     </div>;

@@ -10,7 +10,7 @@ export default function About() {
                         alt="logo"
                         width={450}
                         height={900}
-                        className='mx-auto'
+                        className='mx-auto px-2'
                     />
                 </div>
                 <div className='basis-1/2 md:mr-10 md:mt-10'>
